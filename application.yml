@@ -1,2 +1,2 @@
 general:
-  kafka-topic: your-kafka-topic
+  kafka-topic: transactions-topic
